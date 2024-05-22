@@ -1,4 +1,4 @@
-# CC7711Projeto
+# CC7711 INTELIGENCIA ARTIFICIAL E ROBOTICA
 
 ## Filipe Bruhns Pio Pedroso  22.121.053-7
 ## Lucas Forge Freo  22.121.081-8
